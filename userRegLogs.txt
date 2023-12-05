@@ -1,0 +1,16 @@
+User ADMIN has logged into an account at Fri Nov 17 00:29:37 EET 2023
+User ADMIN has logged into an account at Fri Nov 17 00:23:20 EET 2023
+User ADMIN has logged into an account at Fri Nov 17 00:20:28 EET 2023
+User ADMIN has logged into an account at Fri Nov 17 00:16:49 EET 2023
+User ADMIN has logged into an account at Fri Nov 17 00:13:08 EET 2023
+User ADMIN has logged into an account at Fri Nov 17 00:11:14 EET 2023
+User ADMIN has logged into an account at Fri Nov 17 00:08:27 EET 2023
+User ADMIN has logged into an account at Mon Nov 13 02:38:28 EET 2023
+User ADMIN has logged into an account at Mon Nov 13 02:34:12 EET 2023
+User ADMIN has logged into an account at Mon Nov 13 02:29:10 EET 2023
+User ADMIN has logged into an account at Sun Nov 12 16:18:32 EET 2023
+User emp8 has logged into an account at Mon Oct 16 12:51:45 EEST 2023
+User ADMIN has logged out at Mon Oct 16 11:05:49 EEST 2023
+User ADMIN has logged into an account at Mon Oct 16 11:05:39 EEST 2023
+User emp1 has logged out at Mon Oct 16 11:05:10 EEST 2023
+User emp1 has logged into an account at Mon Oct 16 11:04:53 EEST 2023
